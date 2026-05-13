@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# Database
+*.db
+
+# Excel/CSV (Sample data)
+# Keep sample_complaints.csv and monthly_profit.xlsx if they are part of the demo
+# But usually data files are ignored if they contain sensitive info. 
+# Since these are samples, I will let them be committed if the user wants.
+# However, usually it's safer to ignore .xlsx and .db
+
+*.xlsx
+*.db
+
+# IDEs
+.vscode/
+.idea/

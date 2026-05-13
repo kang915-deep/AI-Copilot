@@ -1,0 +1,5 @@
+Ticket_ID,Customer_Email,Complaint_Text,Order_Date
+T1001,user1@example.com,The product arrived with a broken screen. I am very disappointed.,2026-05-01
+T1002,user2@example.com,"I haven't received my package yet, it's been two weeks!",2026-05-02
+T1003,user3@example.com,"The size is too small, I want to return it for a refund.",2026-05-03
+T1004,user4@example.com,"Great product, but the shipping was a bit slow.",2026-05-04
